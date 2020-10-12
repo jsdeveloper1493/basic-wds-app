@@ -1,0 +1,24 @@
+{
+  "name": "vanillaJSProjectSetup",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsdeveloper1493/basic-wds-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsdeveloper1493/basic-wds-app/issues"
+  },
+  "homepage": "https://github.com/jsdeveloper1493/basic-wds-app#readme",
+  "devDependencies": {
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  }
+}
